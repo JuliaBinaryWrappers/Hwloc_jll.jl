@@ -1,143 +1,143 @@
 [[Hwloc]]
 arch = "aarch64"
-git-tree-sha1 = "34f833ff997387256af3e5b520f3e523bcd58081"
+git-tree-sha1 = "1c3753ed9a800ea4ab76b6c0f2d35f1014813c3e"
 os = "macos"
 
     [[Hwloc.download]]
-    sha256 = "a7e3ba569523c7b58ea713081e287e6c1a606eee2ed8e9f795fe862937ce0e34"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "f7519b52984fdf8ae9d9585b89e5776085334f9818c41fea8be238ba45258ced"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.aarch64-apple-darwin.tar.gz"
 [[Hwloc]]
 arch = "aarch64"
-git-tree-sha1 = "e8bd00341882fc5a97fbc6bee2b954eaeda7e878"
+git-tree-sha1 = "f5b64701f3f8d0082732b8aaaa19d5dde5a92907"
 libc = "glibc"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "9488a8f761ab9a1fd6e39c33ef6a9d50154135eebb716be7f5b2cd3ab88c3130"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "e3334db4f3845160c081d68221edf409d09df83dfe05b2dfb89e8645d37ef469"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.aarch64-linux-gnu.tar.gz"
 [[Hwloc]]
 arch = "aarch64"
-git-tree-sha1 = "b0940117faeb459d9e14a2bff769d61685d899c4"
+git-tree-sha1 = "e3e20c7c1e9442a475edd1e1744e5c4aaf455c96"
 libc = "musl"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "7d885eaf0f16994f46721ce7d900a2f55c091bc5035e54f1d03dcd4b652ba9bd"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.aarch64-linux-musl.tar.gz"
+    sha256 = "561aab43728016bde417feae630d56f6fc6c9d21a0ce5f6f944444fa8cec6ca5"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.aarch64-linux-musl.tar.gz"
 [[Hwloc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "940aa79573d25562a190c84be5536cb7b7614b49"
+git-tree-sha1 = "ee2d62b35f43445f1645038455291ba3d9435d20"
 libc = "glibc"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "a980d7be4b6ff8e209959efc064ea9b8ca7e8c8cd03400db46033bc41c1ac916"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "05ad5979be18e856f1bc794fb71aae8ca2794317a5cfbe3e413e16559ccc25dd"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.armv6l-linux-gnueabihf.tar.gz"
 [[Hwloc]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "46813a2a09b9f9d0844027037ba7f6e38d96f9a7"
+git-tree-sha1 = "fcb97b02ceb15f2b0650d3c555da6563ab2d6e86"
 libc = "musl"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "8ff485c9b1776f6328659701f03e145190eb1fbca0edb7af079ff12ebf5d623e"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "7b6882fe1e06166409491fee68eaf3addae38ef137afd7a0fa4fdbe02622f43a"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.armv6l-linux-musleabihf.tar.gz"
 [[Hwloc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "fd965961c7e5ddce123e8cf4457e19d0fddeb838"
+git-tree-sha1 = "25a84adb98b77e696e0c3f6e1ae20d672d14d730"
 libc = "glibc"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "3f22819881f46c7298e4483fa0d5316690d48f1220794308cb722e64da52e74d"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "433f514d197a2c5c2b582d199bce477adb2737e042777358f630d0d5301b5b39"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.armv7l-linux-gnueabihf.tar.gz"
 [[Hwloc]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0d76e9e73dd3f8892c13b13e85eeb393a9e14f31"
+git-tree-sha1 = "ec4184c0628626c77d143f71309846230ffb1247"
 libc = "musl"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "424d16efe6b29c5e8c0e5cfaf7210c6728a27a1ba4e24ab036019b0a5105f706"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9dfeb7ff3c16cbb179a563b8955d8180b6ef7f3db2f427d81aac23b728aae0a4"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.armv7l-linux-musleabihf.tar.gz"
 [[Hwloc]]
 arch = "i686"
-git-tree-sha1 = "c37ad34dbe91e3a6f43c7cbbe5a7d88bb2bb108c"
+git-tree-sha1 = "6700986b6ef0b5099950d83b857fda89e8e6b6d6"
 libc = "glibc"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "0cbfeee602ad33e0c89cf7f1757fe7e116d5d65e585be2761df394096e0965a8"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.i686-linux-gnu.tar.gz"
+    sha256 = "8d2f70907ea547ed306f7f14792b26d1ff21459c9c2b9220618fb278b3921a93"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.i686-linux-gnu.tar.gz"
 [[Hwloc]]
 arch = "i686"
-git-tree-sha1 = "21653e2188b1c576ca531c70233c3bc8319422a5"
+git-tree-sha1 = "4ad79d028b6ff1aa6eeb314b488762b49003299e"
 libc = "musl"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "0e98511b7ce1e650a193ca1c0b2608ebbde8b463b6db1c4b4afd16bafe5f2e3e"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.i686-linux-musl.tar.gz"
+    sha256 = "447019e1a130c8bbecc022ffce65c44bbb4154cb57bc6c1de8a80f5121ab13f4"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.i686-linux-musl.tar.gz"
 [[Hwloc]]
 arch = "i686"
-git-tree-sha1 = "d116ece70b5896bce324ffa8583287b79b9aa337"
+git-tree-sha1 = "c49146ed8312dd25f3bed056becfdd488683fd51"
 os = "windows"
 
     [[Hwloc.download]]
-    sha256 = "52b2144db31cec52d0def4fb382d06dbb299d312f249239580615ac7a0250ff3"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.i686-w64-mingw32.tar.gz"
+    sha256 = "4188124d7d5a5c4b2fc72284f3eaeecd93da0d989b19d25c310d84c5d63711d4"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.i686-w64-mingw32.tar.gz"
 [[Hwloc]]
 arch = "powerpc64le"
-git-tree-sha1 = "df7ad45e4f2a09a40c81e6138403a0777e8ef160"
+git-tree-sha1 = "0accba258783cab0562b01766c9660f32182da52"
 libc = "glibc"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "4dacc94d78d771f04bbe92cf049c56cbc94244c324aa0599cab8d2feebc89977"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d9dd2058eb2b6e69bab2617748489576589145da737e550be80c0232fcf26020"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.powerpc64le-linux-gnu.tar.gz"
 [[Hwloc]]
 arch = "x86_64"
-git-tree-sha1 = "5d09039ca211d86a5841fc76dd3710ed87b80831"
+git-tree-sha1 = "c46d9965e4c9b4152e1154f15ef4120aea345fb4"
 os = "macos"
 
     [[Hwloc.download]]
-    sha256 = "0fc8ae19c032e258887babf076896cf6f19746ee623eca45f7fc107ae18fe7ae"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "69988e5b2bcb3ecfec73b9bc64af07695040bf22789ef5519036c235b7f5c954"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.x86_64-apple-darwin.tar.gz"
 [[Hwloc]]
 arch = "x86_64"
-git-tree-sha1 = "c5fb0af4a1d1b8eedfe9da26f7d78d79b444b449"
+git-tree-sha1 = "8b99271067209374605472e30eff7ab9e03ce9a7"
 libc = "glibc"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "c28e1125da30b0b6bbf914c248edda465dccf48e83be308aa8d3e3247f0b0247"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "c3cfdbb5975be258c6b2e0717ce7edf045ede51c25c99e3b01fbfca5290eda44"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.x86_64-linux-gnu.tar.gz"
 [[Hwloc]]
 arch = "x86_64"
-git-tree-sha1 = "415b665230cb1bd6ee745754ad27d70658fa3c5c"
+git-tree-sha1 = "c635d196af3bcbb89bb61f1affcdf42d960d73a8"
 libc = "musl"
 os = "linux"
 
     [[Hwloc.download]]
-    sha256 = "2bd391ed9b4e35976ad83e8ab524eed83e05c09137fb458e2662218bcc10de8c"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.x86_64-linux-musl.tar.gz"
+    sha256 = "aa04c9cc1d368c9d2749d32cfc3ce03013625999a7fd51a184d5e12d9c20c348"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.x86_64-linux-musl.tar.gz"
 [[Hwloc]]
 arch = "x86_64"
-git-tree-sha1 = "dfef69b89d6cf993e2830aad4137a961bca102c9"
+git-tree-sha1 = "4f281b4fcec2ae1eeebd43e73b53658e35a5e914"
 os = "freebsd"
 
     [[Hwloc.download]]
-    sha256 = "7c92776e508c1bcf940bbf6a257697295526f8a92d1650531d58a6fcb2bc3b74"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "da3df2df653263fe1f38e88c37bbe3e162f6ef0f38ef068abeb1397ffdf04d58"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.x86_64-unknown-freebsd.tar.gz"
 [[Hwloc]]
 arch = "x86_64"
-git-tree-sha1 = "7561edb9bc9f8969a28ee65cbdd512674a5dc3b3"
+git-tree-sha1 = "cf4a2a9443ffbdee14b994120270a70474f350bd"
 os = "windows"
 
     [[Hwloc.download]]
-    sha256 = "29612f95b26a69ec053d6598253262864464dce1df63ac2041ad9087da9a015b"
-    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.0+0/Hwloc.v2.9.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "fced88995cb479a116f50d857eb5bbaac7b81a25fc4845d20259a7b6d82b6f1e"
+    url = "https://github.com/JuliaBinaryWrappers/Hwloc_jll.jl/releases/download/Hwloc-v2.9.1+0/Hwloc.v2.9.1.x86_64-w64-mingw32.tar.gz"
