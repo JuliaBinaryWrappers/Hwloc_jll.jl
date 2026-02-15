@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Hwloc")
-JLLWrappers.@generate_main_file("Hwloc", UUID("e33a78d0-f292-5ffc-b300-72abe9b543c8"))
+JLLWrappers.@generate_main_file("Hwloc", Base.UUID("e33a78d0-f292-5ffc-b300-72abe9b543c8"))
 end  # module Hwloc_jll
